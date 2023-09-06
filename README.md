@@ -5,6 +5,8 @@ Este projeto foi gerado com [Angular CLI](https://github.com/angular/angular-cli
 ## Servidor de desenvolvimento
 Execute `ng serve` como servidor de desenvolvimento. Navegue até `http://localhost:4200/`. O aplicativo será recarregado automaticamente se você alterar algum dos arquivos de originais.
 
+## Criar um componente standalone
+Execute `ng generate component nome-do-componente --standalone` para gerar um novo componente standalone.
 ## Andaime de código
 Execute `ng generate component nome-do-componente` para gerar um novo componente. Você também pode usar `ng generate directiva|pipe|service|class|guard|interface|enum|module`.
 
